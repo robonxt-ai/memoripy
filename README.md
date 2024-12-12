@@ -30,7 +30,7 @@ The following example demonstrates how to set up and use Memoripy in a Python sc
 ### Example: `example.py`
 This example script shows the primary functionality of Memoripy, including initialization, storing interactions, retrieving relevant memories, and generating responses.
 
-```
+```python
 from memoripy import MemoryManager, JSONStorage
 from memoripy.implemented_models import OpenAIChatModel, OllamaEmbeddingModel
 
